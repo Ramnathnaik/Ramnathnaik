@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ramanath K P</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [work manager project](https://github.com/Ramnathnaik/work-manager)
+- 🔭 I’m currently working on [microservices with CI/CD Implementation using Spring boot, Docker & Jenkins](https://github.com/Ramnathnaik/hotel-management-microservices-cicd)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Microservices with CI/CD Implementation using Spring boot, Docker & Jenkins**
 
-- 💬 Ask me about **Java, JavaScript, Spring boot, NodeJS, Angular and NextJS**
+- 💬 Ask me about **Java, JavaScript, Spring boot, NodeJS, Angular, NextJS, Microservices, Docker, Jenkins**
 
 - 📫 How to reach me **ramnathnaik447@gmail.com**
 
